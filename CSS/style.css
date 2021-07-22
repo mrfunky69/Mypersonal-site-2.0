@@ -75,6 +75,14 @@ h3 {
   margin-left: 30px;
 
 }
+
+.learner
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
 .college{
 margin: 0 0 0 0;
 }
